@@ -11,4 +11,5 @@ This repo presents my approach for the solution of the classical and most famous
 1. Data extraction: The Titanic dataset used in this project was obtained from Kaggle.In this project, the dataset was used to analyze factors that influenced the survival of passengers aboard the Titanic. Exploratory data analysis was performed to gain insights.
 2. Cleaning: Before performing any analysis or building models, it is crucial to clean and preprocess the Titanic dataset to ensure data quality and reliability. Steps like finding missing values and handling them, dealing with outliers were taken.
 3. Plotting: Visualizations play a crucial role in understanding the underlying patterns and relationships within the Titanic dataset. The following visualizations like histograms, barplots, stripplot, boxplot, piecharts were created to explore and analyze the data.
-Assumptions: Formulated hypotheses from the charts. Assumptions help clarify the context and conditions under which the analysis was conducted. 
+Assumptions: Formulated hypotheses from the charts.
+4. Assumptions help clarify the context and conditions under which the analysis was conducted. 
